@@ -12,6 +12,4 @@ public class Main {
         System.out.println("Количество бонусных рублей:");
         System.out.println(bonus);
     }
-
-
-    }
+}
